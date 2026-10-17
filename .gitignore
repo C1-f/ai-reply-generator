@@ -1,0 +1,19 @@
+# ===== 敏感文件（绝对不能上传！）=====
+.env
+
+# ===== Python =====
+venv/
+__pycache__/
+*.pyc
+*.pyo
+database.db
+
+# ===== Node =====
+node_modules/
+dist/
+*.log
+
+# ===== IDE =====
+.vscode/
+.idea/
+.DS_Store
