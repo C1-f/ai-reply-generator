@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pyjwt
+pwdlib[argon2]
+openai
+python-multipart
+python-dotenv
